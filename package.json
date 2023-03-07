@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nedb": "^1.8.0"
+  },
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "This is a grocercy list creating app wih the features of server and database",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grocery",
+    "bud",
+    "grocery",
+    "list",
+    "creator",
+    "database",
+    "server"
+  ],
+  "author": "Amandeep Singh",
+  "license": "MIT"
+}
